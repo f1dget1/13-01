@@ -5,10 +5,13 @@
 
 Скриншот вывода найденных сетевых служб, открытых портов и их версии
 <img src = "img/zadanie1.png" width = 100%>
-были найдены следующие уязвимости:
-бэкдор уязвимость для vsftpd 2.3.4 - https://www.exploit-db.com/exploits/49757
-бэкдор уязвимость для UnrealIRCd - https://www.exploit-db.com/exploits/13853
-уязвимость запуска команды удаленно для ProFTPd 1.3.1 - https://www.exploit-db.com/exploits/15449
+Были найдены следующие уязвимости:
+
+Бэкдор уязвимость для vsftpd 2.3.4 - https://www.exploit-db.com/exploits/49757
+
+Бэкдор уязвимость для UnrealIRCd - https://www.exploit-db.com/exploits/13853
+
+Уязвимость запуска команды удаленно для ProFTPd 1.3.1 - https://www.exploit-db.com/exploits/15449
 
 ### Задание 2
 
